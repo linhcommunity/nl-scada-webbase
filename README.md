@@ -19,7 +19,7 @@ npm run dev
 Truy cập http://localhost:5173
 
 ## Cấu trúc thư mục
-
+```bash
 src/
 ├── lib/           # API client, WebSocket, utils
 ├── stores/        # Svelte stores (auth, theme, alarm)
@@ -28,3 +28,4 @@ src/
 ├── pages/         # Các trang (routes)
 ├── App.svelte     # Root component
 └── main.js        # Entry point
+```
